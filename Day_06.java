@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Day_6 {
+public class Day_06 {
     public static List<Integer> majorityElement(int[] nums) {
         int n = nums.length;
         Integer candidate1 = null, candidate2 = null;

@@ -1,4 +1,4 @@
-public class Day_7 {
+public class Day_07 {
     public static int maximumProfit(int[] prices) {
         int profit = 0;
         for (int i = 1; i < prices.length; i++) {

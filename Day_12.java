@@ -27,8 +27,8 @@ class Day_12 {
 
     // Main method for testing
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        Day_12 day12 = new Day_12();
         int[] arr = {8, -8, 9, -9, 10, -11, 12};
-        System.out.println("Maximum Circular Subarray Sum: " + sol.circularSubarraySum(arr));
+        System.out.println("Maximum Circular Subarray Sum: " + day12.circularSubarraySum(arr));
     }
 }
