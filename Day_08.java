@@ -1,4 +1,4 @@
-public class Day_8 {
+public class Day_08 {
     public static int maximumProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
         int maxProfit = 0;

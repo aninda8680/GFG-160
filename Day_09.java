@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Day_9 {
+public class Day_09 {
     public static int getMinDiff(int[] arr, int k) {
         int n = arr.length;
         Arrays.sort(arr);
